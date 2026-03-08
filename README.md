@@ -73,10 +73,13 @@ grep "failed password" /var/log/auth.log
 
 cat  
 Displays the contents of a file.
+
 tail  
 Displays the last lines of a file.
+
 head  
 Displays the first lines of a file.
+
 less  
 Displays file content one page at a time.
 
